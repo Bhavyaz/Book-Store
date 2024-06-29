@@ -12,7 +12,6 @@ This project is a full-stack web application for a Book Store, built using the  
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Description
 
